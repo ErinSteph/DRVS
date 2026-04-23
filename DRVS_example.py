@@ -40,7 +40,7 @@ You can change default delay after init by changing stepper.wait.
     
 All are optional.
     
-.wait() can be used instead of time.sleep_ms(), cause why not.
+.sleep() can be used instead of time.sleep_ms(), cause why not.
 
 Some examples, with arguments in various formats:
 """
